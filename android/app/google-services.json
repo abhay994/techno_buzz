@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "231106123059",
+    "firebase_url": "https://chat-2077b.firebaseio.com",
+    "project_id": "chat-2077b",
+    "storage_bucket": "chat-2077b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231106123059:android:8e7d536a57bf090b",
+        "android_client_info": {
+          "package_name": "com.ar.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231106123059-j8mr72j270sc4mgip1vfl3lbc6iqqdu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPK3lNERjzy_fKppYW5XKInoYzBFh_nv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231106123059:android:65946eb97471b240",
+        "android_client_info": {
+          "package_name": "com.ar.techno_buzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231106123059-j8mr72j270sc4mgip1vfl3lbc6iqqdu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPK3lNERjzy_fKppYW5XKInoYzBFh_nv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
