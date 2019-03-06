@@ -242,7 +242,7 @@ class _newsState extends State<news> {
     String link;
     link = "https://newsapi.org/v2/top-headlines?country=" +
         newsType +
-        "&category=technology&apiKey=652e11c0a7bc41d49838e5c49d49be36";
+        "&category=technology&apiKey="";
 
     var res = await http
         .get(Uri.encodeFull(link), headers: {"Accept": "application/json"});
